@@ -1,2 +1,2 @@
 # tribute_page
-![image](https://github.com/raghavkrishnet/tribute_page/assets/66867030/e2410227-f2d6-4a9b-a217-19e1d9d4982c)
+![image](https://github.com/raghavkrishnet/tribute_page/assets/66867030/86d25ef5-22c5-4751-8755-feead4f35675)
